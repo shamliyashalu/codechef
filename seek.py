@@ -1,1 +1,0 @@
-f1= open("msg.txt","w+")
